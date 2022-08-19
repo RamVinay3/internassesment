@@ -1,0 +1,25 @@
+#main{
+    display: flex;
+    padding: 20px;
+
+}
+#main #nav{
+    margin-left: 20px;
+    margin-right: 50px;
+}
+#nav{
+    width: 20%;
+    height: auto;
+    position: fixed;
+}
+.todo    
+{
+    margin-bottom: 50px;
+}
+.category{
+    display: flex;
+    width:300px;
+}
+.right{
+    margin-left: 25%;
+}
